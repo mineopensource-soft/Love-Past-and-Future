@@ -1,3 +1,4 @@
 # C++ .gitignore
 ## Code::Blocks Object File
 *.o
+.deploy*
